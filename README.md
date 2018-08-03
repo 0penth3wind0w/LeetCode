@@ -1,6 +1,7 @@
 # Leetcode Practice  
+My LeetCode solutions.  
 
-| # | Title | Code |
+| # | Title | Solution |
 | -- | ------ | ---------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](./Python/two_sum.py) |  
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./Python/add_two_numbers.py) |  
