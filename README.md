@@ -11,5 +11,6 @@ My LeetCode solutions.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Python/majority_element.py) |  
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [Python](./Python/range_sum_query_mutable.py) |  
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Python](./Python/hamming_distance.py) |  
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | [MySQL](./MySQL/not_boring_movies.sql) |  
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Python/1_bit_and_2_bit_characters.py) |  
 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Python](./Python/max_chunks_to_make_sorted.py) |  
