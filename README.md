@@ -7,6 +7,7 @@ My LeetCode solutions.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./Python/add_two_numbers.py) |  
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Python](./Python/longest_substring_without_repeating_characters.py) |  
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Python](./Python/rotate_list.py) |  
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./Python/remove_duplicates_from_sorted_list.py) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Python](./Python/find_minimum_in_rotated_sorted_array.py) |  
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Python/majority_element.py) |  
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) | [MySQL](./MySQL/second_highest_salary.sql) |
