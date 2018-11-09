@@ -10,7 +10,8 @@ My LeetCode solutions.
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./Python/remove_duplicates_from_sorted_list.py) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Python](./Python/find_minimum_in_rotated_sorted_array.py) |  
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Python](./Python/majority_element.py) |  
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) | [MySQL](./MySQL/second_highest_salary.sql) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) | [MySQL](./MySQL/second_highest_salary.sql) |  
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Python](./Python/remove_linked_list_elements.py) |  
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [Python](./Python/range_sum_query_mutable.py) |  
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Python](./Python/hamming_distance.py) |  
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) | [MySQL](./MySQL/classes_moore_than_5_students.sql) |
