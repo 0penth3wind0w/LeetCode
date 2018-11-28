@@ -16,6 +16,7 @@ My LeetCode solutions.
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./Python/isomorphic_strings.py) |  
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [Python](./Python/range_sum_query_mutable.py) |  
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Python](./Python/hamming_distance.py) |  
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [Python](./Python/valid_square.py) |  
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) | [MySQL](./MySQL/classes_moore_than_5_students.sql) |  
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | [MySQL](./MySQL/not_boring_movies.sql) |  
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./Python/1_bit_and_2_bit_characters.py) |  
