@@ -4,10 +4,12 @@ My LeetCode solutions.
 ## Algorithm  
 | # | Title | Solution |
 | -- | ------ | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](./Python/two_sum.py) |  
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./Java/TwoSum.java), [Python](./Python/two_sum.py) |  
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./Python/add_two_numbers.py) |  
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Python](./Python/longest_substring_without_repeating_characters.py) |  
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Python/letter_combinations_of_a_phone_number.py) |  
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./Java/MergeKSortedList.java) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Java](./Java/InsertInterval.java) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Python](./Python/rotate_list.py) |  
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./Python/remove_duplicates_from_sorted_list.py) |  
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Python](./Python/find_minimum_in_rotated_sorted_array.py) |  
