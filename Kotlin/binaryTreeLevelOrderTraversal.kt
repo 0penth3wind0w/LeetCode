@@ -6,7 +6,7 @@
     fun levelOrder(root: TreeNode?): List<List<Int>> {
         val resultList: MutableList<List<Int>> = mutableListOf<List<Int>>()
         root?.let { rootNode ->
-            val levelList: MutableList<List<TreeNode>> = mutableListOf<List<TreeNode>>(listOf(rootNode))
+            val levelList = mutableListOf<List<TreeNode>>(listOf(rootNode))
             while(!levelList.isEmpty()) {
                 val currentLevelList = levelList[0]
                 val currentValList = mutableListOf<Int>()
