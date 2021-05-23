@@ -4,7 +4,7 @@
  */
 class Solution {
     fun findAndReplacePattern(words: Array<String>, pattern: String): List<String> {
-        val result: ArrayList<String> = ArrayList()
+        val result = ArrayList<String>()
         for( word in words) {
             val patternToWordMap = mutableMapOf<Char, Char>()
             val wordToPatternMap = mutableMapOf<Char, Char>()
