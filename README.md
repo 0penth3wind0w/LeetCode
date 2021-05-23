@@ -24,6 +24,7 @@ My LeetCode solutions.
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | Medium | [Python](./Python/range_sum_query_mutable.py) |  
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy | [Python](./Python/hamming_distance.py) |  
 | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | Medium | [Python](./Python/valid_square.py) |  
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | [Kotlin](./Kotlin/averageOfLevelsInBinaryTree.kt) |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | Easy | [Python](./Python/1_bit_and_2_bit_characters.py) |  
 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | Medium | [Python](./Python/max_chunks_to_make_sorted.py) |  
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | Medium | [Kotlin](./Kotlin/findAndReplacePattern.kt) |  
