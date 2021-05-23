@@ -17,4 +17,4 @@ class Solution:
                 candidates = [j, target-j]
                 break
         
-        return sorted([i for i,j in enumerate(nums) if j==candidates[0]]) if candidates[0] == candidates[1] else sorted([nums.index(i) for i in candidates])
+        return sorted([i for i,j in enumerate(nums) if j == candidates[0]]) if candidates[0] == candidates[1] else sorted([nums.index(i) for i in candidates])

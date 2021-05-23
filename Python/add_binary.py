@@ -25,7 +25,7 @@ class Solution:
                 else:
                     result = '0' + result
                 carry = True if a[i] == '1' else False
-            i-=1
+            i -= 1
         if carry:
             result = '1' + result
             

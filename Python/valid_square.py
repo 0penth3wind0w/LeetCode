@@ -25,6 +25,6 @@ class Solution:
             result = False
         else:
             f_links = list(set(links))
-            result = True if len(f_links)==2 else False
+            result = True if len(f_links) == 2 else False
         
         return result

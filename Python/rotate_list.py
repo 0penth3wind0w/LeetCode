@@ -21,7 +21,7 @@ class Solution:
         while ptr != None:
             ptr = ptr.next
             total += 1
-        rtime = k%total if total != 0 else 0
+        rtime = k % total if total != 0 else 0
         
         return rotate(head, total, rtime)
 
