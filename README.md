@@ -31,6 +31,7 @@ My LeetCode solutions.
 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | Medium | [Python](./Python/max_chunks_to_make_sorted.py) |
 | 838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [Python](./Python/push_dominoes.py) |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | Medium | [Kotlin](./Kotlin/findAndReplacePattern.kt) |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | [Python](./Python/number_of_equivalent_domino_pairs.py) |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) |  Medium | [Python](./Python/course_schedule_iv.py) |
 
 
