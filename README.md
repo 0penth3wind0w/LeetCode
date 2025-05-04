@@ -29,6 +29,7 @@ My LeetCode solutions.
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | Hard | [Python](./Python/strange_printer.py) |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | Easy | [Python](./Python/1_bit_and_2_bit_characters.py) |
 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | Medium | [Python](./Python/max_chunks_to_make_sorted.py) |
+| 838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | [Python](./Python/push_dominoes.py) |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | Medium | [Kotlin](./Kotlin/findAndReplacePattern.kt) |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) |  Medium | [Python](./Python/course_schedule_iv.py) |
 
