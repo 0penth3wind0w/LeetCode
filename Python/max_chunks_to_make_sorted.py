@@ -1,7 +1,7 @@
-'''
+"""
     2018/07/31
     Max Chunks To Make Sorted: https://leetcode.com/problems/max-chunks-to-make-sorted/description/
-'''
+"""
 
 class Solution:
     def maxChunksToSorted(self, arr):

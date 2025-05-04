@@ -1,7 +1,7 @@
-'''
+"""
     2018/07/27
     Two Sum: https://leetcode.com/problems/two-sum/description/
-'''
+"""
 
 class Solution:
     def twoSum(self, nums, target):

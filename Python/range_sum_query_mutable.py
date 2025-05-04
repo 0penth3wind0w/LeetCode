@@ -1,7 +1,7 @@
-'''
+"""
     2018/08/04
     Range Sum Query - Mutable: https://leetcode.com/problems/range-sum-query-mutable/description/
-'''
+"""
 
 class NumArray:
 

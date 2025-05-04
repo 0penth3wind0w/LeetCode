@@ -1,8 +1,7 @@
-'''
-2019/05/07
-
-Add Binary: https://leetcode.com/problems/add-binary/
-'''
+"""
+    2019/05/07
+    Add Binary: https://leetcode.com/problems/add-binary/
+"""
 
 class Solution:
     def addBinary(self, a: str, b: str) -> str:

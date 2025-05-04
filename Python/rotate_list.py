@@ -1,7 +1,7 @@
-'''
+"""
     2018/08/07
     Rotate List: https://leetcode.com/problems/rotate-list/description/
-'''
+"""
 
 # Definition for singly-linked list.
 # class ListNode:

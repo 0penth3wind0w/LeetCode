@@ -1,7 +1,7 @@
-'''
+"""
     2018/08/06
     1-bit and 2-bit Characters: https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
-'''
+"""
 
 # === First Approach ===  
 class Solution:

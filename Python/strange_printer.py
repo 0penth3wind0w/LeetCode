@@ -1,7 +1,7 @@
-'''
+"""
     2024/08/25
     Strange Printer: https://leetcode.com/problems/strange-printer/description/
-'''
+"""
 
 class Solution:
     record = {}

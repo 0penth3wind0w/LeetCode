@@ -1,8 +1,7 @@
-'''
-2019/12/29
-
-Decode Ways: https://leetcode.com/problems/decode-ways/
-'''
+"""
+    2019/12/29
+    Decode Ways: https://leetcode.com/problems/decode-ways/
+"""
 
 class Solution:
     def numDecodings(self, s: str) -> int:

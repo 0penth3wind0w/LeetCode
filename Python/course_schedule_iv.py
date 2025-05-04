@@ -1,3 +1,8 @@
+"""
+    2024/08/20
+    Course Schedule IV: https://leetcode.com/problems/course-schedule-iv/description/
+"""
+
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
         # directedAdjMatrix[course_i][course_j] == True when course_j is a prerequisite of course_i

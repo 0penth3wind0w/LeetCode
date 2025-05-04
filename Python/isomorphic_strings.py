@@ -1,7 +1,7 @@
-'''
+"""
     2018/11/09
     Isomorphic Strings: https://leetcode.com/problems/isomorphic-strings/
-'''
+"""
 
 class Solution:
     def isIsomorphic(self, s, t):

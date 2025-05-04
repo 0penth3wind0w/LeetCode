@@ -1,7 +1,7 @@
-'''
+"""
     2018/07/31
     Hamming Distance: https://leetcode.com/problems/hamming-distance/description/
-'''
+"""
 
 # === First Approach ===  
 class Solution:

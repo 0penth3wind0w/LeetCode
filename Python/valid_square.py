@@ -1,7 +1,7 @@
-'''
+"""
     2018/11/28
     Valid Square: https://leetcode.com/problems/valid-square/
-'''
+"""
 
 class Solution:
     def validSquare(self, p1, p2, p3, p4):
